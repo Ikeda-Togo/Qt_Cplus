@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/log_save_test">
+<file alias="main.qml">C:/Users/syuug/Documents/GitHub/Qt_Cplus/log_save_test/main.qml</file>
+<file alias="LogView.qml">C:/Users/syuug/Documents/GitHub/Qt_Cplus/log_save_test/LogView.qml</file>
+</qresource>
+</RCC>
